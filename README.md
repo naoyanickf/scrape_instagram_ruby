@@ -1,4 +1,4 @@
-# scrape_instagram_ruby
+# Scraping Instagram Ruby
 Let's scrape instagram with Ruby! This is a short sample code to scrape instagram website with instagram user_id. You can get user profile and latest images.
 
 ##Code
